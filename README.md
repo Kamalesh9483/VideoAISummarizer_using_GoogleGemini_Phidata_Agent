@@ -10,7 +10,7 @@ Key Features
 4. Dynamic Updates: Processes video files and fetches insights interactively.
 5. Expandable: Ready for cloud-based storage integration (Google Cloud Storage - commented out for now).
 
-![image](https://github.com/user-attachments/assets/9bc97fcb-fa95-4a40-a6a0-7abe89e265b3)
+![{288E78A3-7884-47A8-BAED-6CC58E919A8D}](https://github.com/user-attachments/assets/6ec27712-1d6b-48fd-8ffb-8ab885b17beb)
 
 https://github.com/user-attachments/assets/b252c8e3-0bd6-47ca-abaf-c0c5427f9b9a
 
