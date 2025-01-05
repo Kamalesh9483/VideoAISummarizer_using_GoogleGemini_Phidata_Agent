@@ -1,0 +1,4 @@
+gradio
+phidata
+google-generativeai
+duckduckgo-search
